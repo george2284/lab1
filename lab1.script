@@ -1,0 +1,14 @@
+Script started on 2015年03月12日 (週四) 12時02分26秒
+]0;F74021022@2015cpp: ~F74021022@2015cpp:~$ ls
+lab1.script
+]0;F74021022@2015cpp: ~F74021022@2015cpp:~$ whoami; pwd
+F74021022
+/home/F74021022
+]0;F74021022@2015cpp: ~F74021022@2015cpp:~$ git config -l
+]0;F74021022@2015cpp: ~F74021022@2015cpp:~$ git clonegit[K[K[K https;[K://github.com/george2284/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74021022@2015cpp: ~F74021022@2015cpp:~$ exit
+exit
+
+Script done on 2015年03月12日 (週四) 12時06分22秒
